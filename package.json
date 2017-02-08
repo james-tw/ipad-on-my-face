@@ -1,0 +1,17 @@
+{
+  "name": "dropped-ipad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dropped_ipad.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "twit": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node dropped_ipad.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
